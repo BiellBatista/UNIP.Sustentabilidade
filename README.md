@@ -1,4 +1,8 @@
-# sustentabilidade.html
-Site desenvolvido para o trabalho semestral da UNIP.
+# Sustentabilidade
+Este site foi desenvolvido para a Atividade Prática Supervisionada (APS) do primeiro semestre na Universidade Paulista - UNIP.
 
-O presente trabalho é a documentação de um site desenvolvido por quatro alunos do curso Ciência da Computação (CC1A33) no turno manhã
+# Descrição do Projeto
+Desenvolvimento de um site responsivo.
+
+# Tecnologias Utilizadas
+HTML, CSS e JavaScript.
